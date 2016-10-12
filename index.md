@@ -1,4 +1,3 @@
-![Welcome To PwnWikiV2](images/logo.jpg)
 
 
 
