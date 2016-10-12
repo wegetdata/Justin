@@ -1,8 +1,8 @@
-![Welcome To PwnWiki.io](images/logo.jpg)
+![Welcome To PwnWikiV2](images/logo.jpg)
 
-[Image Generated Here](http://www.addletters.com/pictures/restaurant-sign-generator/4772466.htm#.UplRZ42PuuY)
 
-### PwnWiki.io is a collection TTPs (tools, tactics, and procedures) for what to do after access has been gained.
+
+### PwnWikiV2 is a collection TTPs (tools, tactics, and procedures) for what to do after access has been gained.
 
 - - - - - - 
 
@@ -26,7 +26,7 @@ We realize that not everyone can/wants to submit content via GitHub and that's c
 
 - - - - - -
 Curators:
-
+  * [@DrDeath](https://twitter.com/DrDeathatefnet) [gimmick:TwitterFollow](@DrDeathatEfnet)
   * [@mubix](https://twitter.com/mubix) [gimmick:TwitterFollow](@mubix)
   * [@WebBreacher](https://twitter.com/webbreacher) [gimmick:TwitterFollow](@WebBreacher)
   * [@tekwizz123](https://twitter.com/tekwizz123) [gimmick:TwitterFollow](@tekwizz123)
